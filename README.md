@@ -1,0 +1,1 @@
+# 2026-09-20-cursor-vs-claude-code-comparison-images
